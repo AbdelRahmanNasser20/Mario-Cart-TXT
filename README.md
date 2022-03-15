@@ -1,7 +1,7 @@
 # Mario-Cart-TXT-Game
 
-#what I Learned
+# what I Learned
 
--Polymorphism
+- Polymorphism
 
--Memory Allocation/Deallocation
+- Memory Allocation/Deallocation
